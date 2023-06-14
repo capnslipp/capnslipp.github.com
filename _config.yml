@@ -1,4 +1,3 @@
-baseurl: "/capnslipp.github.io"
 source: source/
 destination: compiled/
 
