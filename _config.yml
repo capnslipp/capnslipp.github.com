@@ -1,3 +1,4 @@
+safe: true
 source: source/
 destination: compiled/
 
